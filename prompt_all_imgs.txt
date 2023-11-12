@@ -1,0 +1,69 @@
+images/pix2pix-zero/cat/gnochi_mirror.jpeg: a cat sitting on a wooden counter looking at itself in the mirror
+images/pix2pix-zero/dog/dog_1.png: a white dog is standing in a field of yellow flowers
+images/pix2pix-zero/dog/dog_5.png: pomeranian dog with rose on black background
+images/pix2pix-zero/dog/dog_9.png: yorkshire terrier dog with bow on its head
+images/pix2pix-zero/dog/dog_8.png: a small white dog is sitting on the hand of a person
+images/pix2pix-zero/dog/dog_7.png: crochet puppy amigurumi pattern
+images/pix2pix-zero/dog/dog_6.png: a yorkshire terrier sitting in front of a flower pot
+images/pix2pix-zero/dog/dog_2.png: watercolor illustration of a golden retriever wearing a flower wreath
+images/pix2pix-zero/dog/dog_4.png: a painting of a golden retriever dog
+images/pix2pix-zero/dog/dog_3.png: a golden retriever dog is sitting down on a white background
+images/pix2pix-zero/cat/cat_4.png: a watercolor painting of a white cat sitting in the grass
+images/pix2pix-zero/cat/cat_3.png: a yellow cat with a green heart on its chest
+images/pix2pix-zero/cat/cat_5.png: a white cat with a red bow tie
+images/pix2pix-zero/cat/cat_8.png: a white kitten with blue eyes sitting next to a ball of yarn
+images/pix2pix-zero/cat/cat_7.png: a painting of a kitten in a field of flowers
+images/pix2pix-zero/cat/cat_1.png: a colorful cat painting on a purple background
+images/pix2pix-zero/cat/cat_9.png: orange cat sitting on the window sill
+images/pix2pix-zero/cat/cat_2.png: a drawing of a kitten with yarn
+images/pix2pix-zero/cat/cat_6.png: a painting of a kitten in a field of daisies
+images/Plug-and-Play-datasets/imagenetr-ti2i/hummingbird/cartoon_9.jpg: a painting of two hummingbirds in a green background
+images/Plug-and-Play-datasets/imagenetr-ti2i/hummingbird/origami_2.jpg: a person holding a red and yellow origami bird
+images/Plug-and-Play-datasets/imagenetr-ti2i/hummingbird/embroidery_11.jpg: a hummingbird embroidered on a piece of fabric
+images/Plug-and-Play-datasets/imagenetr-ti2i/pizza/sculpture_3.jpg: a small pizza is shown on a white surface
+images/Plug-and-Play-datasets/imagenetr-ti2i/pizza/toy_1.jpg: two crocheted pieces of pizza on a plate
+images/Plug-and-Play-datasets/imagenetr-ti2i/pizza/sketch_5.jpg: pizza coloring pages for kids
+images/Plug-and-Play-datasets/imagenetr-ti2i/cat/sketch_20.jpg: a pencil drawing of cat face
+images/Plug-and-Play-datasets/imagenetr-ti2i/cat/sculpture_5.jpg: a small orange cat is standing on a white surface
+images/Plug-and-Play-datasets/imagenetr-ti2i/cat/cartoon_0.jpg: a painting of a cat with bright green eyes
+images/Plug-and-Play-datasets/imagenetr-ti2i/castle/embroidery_2.jpg: crochet pattern of a castle with a tower and a tower
+images/Plug-and-Play-datasets/imagenetr-ti2i/castle/sculpture_2.jpg: a sand castle made to look like a castle
+images/Plug-and-Play-datasets/imagenetr-ti2i/castle/cartoon_17.jpg: a painting of a castle with a red flag on top
+images/Plug-and-Play-datasets/imagenetr-ti2i/jeep/painting_2.jpg: a painting of a white jeep on a green background
+images/Plug-and-Play-datasets/imagenetr-ti2i/jeep/toy_18.jpg: a model of a military vehicle with a gun on top
+images/Plug-and-Play-datasets/imagenetr-ti2i/jeep/sculpture_0.jpg: a jeep is sitting on top of a rusted out vehicle
+images/Plug-and-Play-datasets/imagenetr-ti2i/husky/art_5.jpg: a dog with blue eyes and a long tongue
+images/Plug-and-Play-datasets/imagenetr-ti2i/husky/sketch_20.jpg: a drawing of a husky dog standing
+images/Plug-and-Play-datasets/imagenetr-ti2i/husky/toy_1.jpg: a stuffed husky dog sitting on top of a red gear wheel
+images/Plug-and-Play-datasets/imagenetr-ti2i/goldfish/origami_1.jpg: a red origami fish is sitting on a table
+images/Plug-and-Play-datasets/imagenetr-ti2i/goldfish/cartoon_25.jpg: goldfish cartoon illustration vector
+images/Plug-and-Play-datasets/imagenetr-ti2i/goldfish/painting_27.jpg: a watercolor painting of a goldfish
+images/Plug-and-Play-datasets/imagenetr-ti2i/penguin/sketch_8.jpg: a drawing of a penguin with a white background
+images/Plug-and-Play-datasets/imagenetr-ti2i/penguin/art_5.jpg: a penguin with an orange beak and yellow eyes
+images/Plug-and-Play-datasets/imagenetr-ti2i/penguin/painting_6.jpg: penguins on the beach painting king penguin family by person
+images/Plug-and-Play-datasets/imagenetr-ti2i/violin/painting_16.jpg: a painting of a violin and sheet music on a wooden door
+images/Plug-and-Play-datasets/imagenetr-ti2i/violin/origami_0.jpg: a violin made out of paper with a bow
+images/Plug-and-Play-datasets/imagenetr-ti2i/violin/painting_27.jpg: an oil painting of a cello and sheet music
+images/Plug-and-Play-datasets/imagenetr-ti2i/panda/cartoon_30.jpg: cartoon panda holding bamboo stick — stock photo
+images/Plug-and-Play-datasets/imagenetr-ti2i/panda/sketch_36.jpg: a painting of a panda bear eating a bamboo stick
+images/Plug-and-Play-datasets/imagenetr-ti2i/panda/sculpture_29.jpg: a bronze statue of a panda bear sitting on a bench
+images/Plug-and-Play-datasets/wild-ti2i/data/horse.png: a white horse is walking in a field
+images/Plug-and-Play-datasets/wild-ti2i/data/bear_sketch.jpeg: a drawing of a bear head
+images/Plug-and-Play-datasets/wild-ti2i/data/dog_face.png: a dog with a blue leash on its neck
+images/Plug-and-Play-datasets/wild-ti2i/data/mountain_landscape_illustration.png: a painting of a mountain range with a lake
+images/Plug-and-Play-datasets/wild-ti2i/data/tower_real_pisa.png: the leaning tower of pisa, italy
+images/Plug-and-Play-datasets/wild-ti2i/data/bear_doll.jpg: a teddy bear wearing a blue sweater and a flower in its hair
+images/Plug-and-Play-datasets/wild-ti2i/data/person_meditation.png: a man meditating in a yoga pose
+images/Plug-and-Play-datasets/wild-ti2i/data/mountain_minimal.jpeg: a sunset over the mountains
+images/Plug-and-Play-datasets/wild-ti2i/data/mountain_polygon.jpeg: a low polygonal landscape with mountains and rocks
+images/Plug-and-Play-datasets/wild-ti2i/data/stones.jpg: a stack of rocks sitting on top of each other
+images/Plug-and-Play-datasets/wild-ti2i/data/spiderman.png: spider-man in the amazing spider-man 2
+images/Plug-and-Play-datasets/wild-ti2i/data/panda_painting.jpg: a drawing of a panda bear eating bamboo
+images/Plug-and-Play-datasets/wild-ti2i/data/person_dancing.jpeg: a man and woman dancing in a kitchen
+images/Plug-and-Play-datasets/wild-ti2i/data/mouse_cartoon.jpeg: mouse, cartoon, illustration, illustration, mouse, illustration, mouse, illustration, mouse, illustration
+images/Plug-and-Play-datasets/wild-ti2i/data/bird_painting.jpg: bluebird original fine art by jane hart
+images/Plug-and-Play-datasets/wild-ti2i/data/mountain_trees_lake.jpg: a lake surrounded by trees and mountains
+images/Plug-and-Play-datasets/wild-ti2i/data/cat_bunny_painting.jpeg: a painting of two kittens and a rabbit in the grass
+images/Plug-and-Play-datasets/wild-ti2i/data/bear.jpeg: brown bear standing on its hind legs in the woods
+images/Plug-and-Play-datasets/wild-ti2i/data/person_real_karate.jpeg: a man in red shirt jumping in the air
+images/Plug-and-Play-datasets/wild-ti2i/data/horse_painting.jpg: a painting of a horse with brown and white spots
