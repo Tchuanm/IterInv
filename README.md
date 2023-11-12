@@ -1,10 +1,5 @@
-# [IterInv](https://arxiv.org/abs/2310.19540)
-The official implement of "IterInv: Iterative Inversion for Pixel-Level T2I Models". 
 
-Accepted paper at [NeurIPS 2023 Workshop on Diffusion Models](https://neurips.cc/virtual/2023/74859).
-
-
-# [IterInv: Iterative Inversion for Pixel-Level T2I Models](https://arxiv.org/abs/2310.19540) [(eurIPS 2023 Workshop on Diffusion Models)](https://neurips.cc/virtual/2023/74859) 
+# [IterInv: Iterative Inversion for Pixel-Level T2I Models](https://arxiv.org/abs/2310.19540) [(NeurIPS 2023 Workshop on Diffusion Models)](https://neurips.cc/virtual/2023/74859) 
 
 ### [Chuanming Tang](https://scholar.google.com/citations?user=BiRPM9AAAAAJ), [Kai Wang](https://scholar.google.com/citations?user=j14vd0wAAAAJ), [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en)
 
@@ -17,22 +12,22 @@ conda create --name floyd --file environment.yml
 conda activate floyd
 ```
 
-3. If you want to get a prompt of our own images, you can use BLIP.ipynb to get the text prompt.
+3. If you want to get a prompt of our own images, you can use BLIP_2.ipynb to get the text prompt.
 
 
 
 
 
-## Reconstruction Image based on IterInv. 
-1. Reconstruct a iamge  based on IterInv. 
+## Reconstruction Image
+1. Reconstruct a image  based on IterInv. 
 ```
-CUDA_VISIBLE_DEVICES=7 python end2end_inv.py \
-                            --input_image 'images/pix2pix-zero/cat/cat_7.png'  \
-                            --results_folder  'output/all_imgs_inversion_in_prompt_file'  \
-                            --prompt_str 'a cat' 
-                            --enable_1 \
-                            --enable_3for2 \
-                            --enable_3 \
+python end2end_inv.py \
+    --input_image 'images/pix2pix-zero/cat/cat_7.png'  \
+    --results_folder  'output/all_imgs_inversion_in_prompt_file'  \
+    --prompt_str 'a cat' 
+    --enable_1 \
+    --enable_3for2 \
+    --enable_3 \
 # or
 bash bashes/bash_inv_1img.sh                 
 ```
@@ -62,24 +57,19 @@ python SDXL.py
 1. editing with IterInv + [DiffEdit](https://huggingface.co/docs/diffusers/api/pipelines/diffedit).
 
 ```
-CUDA_VISIBLE_DEVICES=7 python end2end_diffedit.py \ 
-                    --enable_1  --enable_3for2 --enable_3     \
-                    --inpaint_strength 0.4 
+python end2end_diffedit.py \ 
+    --enable_1  --enable_3for2 --enable_3     \
+    --inpaint_strength 0.4 
 
 ```
 
-2. We also realise the experiments of combined with p2p and pix2pix_zero, but the editing results is not satisfied. 
-See end2end_p2p_edit.py and end2end_zero_edit.py. 
 
-
-
-
-# Quantitative comparison of image inversion results. 
+# Quantitative comparison of inversion results. 
 ```
 python evaluation_scores.py  
 # or single-step debug in evaluation_scores.ipynb
 ```
-Change the folder to find what you want to evaluate. 
+Change the folder to choose what you want to evaluate. 
 
 
 ## Acknowledgement

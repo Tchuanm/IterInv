@@ -57,11 +57,8 @@ def arguments():
     parser.add_argument('--guidance_2', type=float, default=1.0) 
     parser.add_argument('--guidance_3', type=float, default=1.0) 
 
-    # parser.add_argument('--model_path_1', type=str, default="/home/kwang/.cache/huggingface/hub/models--DeepFloyd--IF-I-M-v1.0/snapshots/64dfba780d63640fda95964acba4f410e0420d5f")
     parser.add_argument('--model_path_1', type=str, default="DeepFloyd/IF-I-M-v1.0")
-    # parser.add_argument('--model_path_2', type=str, default="/home/kwang/.cache/huggingface/hub/models--DeepFloyd--IF-II-M-v1.0/snapshots/bf27a1d447ac5f13f47ac35fcacf2f628983581f")
     parser.add_argument('--model_path_2', type=str, default="DeepFloyd/IF-II-M-v1.0")
-    # parser.add_argument('--model_path_3', type=str, default="/home/kwang/.cache/huggingface/hub/models--stabilityai--stable-diffusion-x4-upscaler/snapshots/7b427816f5ce63180d60cc023de189b5d1d0360b")
     parser.add_argument('--model_path_3', type=str, default="stabilityai/stable-diffusion-x4-upscaler")
 
     parser.add_argument('--enable_1', action='store_true')

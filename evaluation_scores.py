@@ -36,7 +36,7 @@ org_transform = transforms.Compose([
 
 
 ### NOTE: set the img paths of each from the prompt txt. 
-root_pth = '/disk1/users/kwang-local/ctang/deepfloyd/'
+root_pth = '/disk1/users/ctang/deepfloyd/'
 folder = 'all_imgs_inversion_in_prompt_file'
 # choose the paramter settings of ours. 
 ddim_stages = 'stages23'
